@@ -1,2 +1,2 @@
 # Giddieproj
-Game
+Game on Rock Paper Scissors
